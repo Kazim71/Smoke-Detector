@@ -34,5 +34,13 @@ This project is an IoT-based Smoke Detection System designed to identify smoke i
 
 ---
 
-## 📁 Project Structure
 
+## ✅ Developed By
+**Mohammad Kazim**  
+B.Tech ECE, Class of 2025  
+GitHub: [Kazim71](https://github.com/Kazim71)
+
+---
+
+## ⚠️ License
+This project is open-source and free to use for academic purposes.
